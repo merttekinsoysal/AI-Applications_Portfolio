@@ -3,11 +3,11 @@ A portfolio showcasing projects and labs completed during the ITAI 2372 course.
 ## Cintents
 
 ### Projects & Labs
--**Lab 1**: AI in Finance
--**Lab 2**: AI Smart Cities and Transportation
--**Lab 3**: AI and Blockchain Integration
+-**Lab 1**: # AI in Finance
+-**Lab 2**: # AI Smart Cities and Transportation
+-**Lab 3**: # AI and Blockchain Integration
 
--**Lab 1**: AI In Finance
+-**Lab 1**: # AI In Finance
 Artificial intelligence (AI) is revolutionizing the finance industry by streamlining operations, enhancing decision-making, and improving customer experiences. Here’s a summary of its benefits and usage:
 # Key Benefits:
 Efficiency through Automation: AI automates repetitive tasks like document processing, data entry, and customer support, freeing employees to focus on higher-value tasks.
