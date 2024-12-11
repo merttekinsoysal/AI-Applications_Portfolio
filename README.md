@@ -4,7 +4,9 @@ A portfolio showcasing projects and labs completed during the ITAI 2372 course.
 
 ### Projects & Labs
 -**Lab 1**: AI in Finance
+
 -**Lab 2**: AI in Smart Cities and Transportation
+
 -**Lab 3**: AI and Blockchain Integration
 
 # AI In Finance:
