@@ -16,10 +16,10 @@ Personalized Customer Experience: AI leverages customer data to offer tailored f
 Improved Risk Management: AI tools analyze large datasets to assess credit risk, detect potential threats, and ensure regulatory compliance.
 Cost Savings and Productivity: AI's ability to process data at scale reduces operational costs while improving accuracy in tasks like financial forecasting and market analysis.
 # Applications in Finance:
-Customer Support: AI-powered chatbots handle routine queries, improving response times and reducing costs【11】【12】.
-Credit Scoring: AI analyzes customer income and spending habits to provide fair and accurate credit risk assessments【12】.
-Fraud Prevention: AI systems monitor transactions in real-time, identifying suspicious activities with greater precision【12】.
-Algorithmic Trading: AI models predict market trends and execute trades at optimal times, enhancing profitability【11】【12】.
+Customer Support: AI-powered chatbots handle routine queries, improving response times and reducing costs.
+Credit Scoring: AI analyzes customer income and spending habits to provide fair and accurate credit risk assessments.
+Fraud Prevention: AI systems monitor transactions in real-time, identifying suspicious activities with greater precision.
+Algorithmic Trading: AI models predict market trends and execute trades at optimal times, enhancing profitability.
 The integration of AI is reshaping the finance industry, making it more efficient, secure, and customer-centric. For more detailed insights, visit Zendesk and DataCamp.
 https://www.zendesk.com/blog/ai-in-finance/
 https://www.datacamp.com/blog/ai-in-finance
