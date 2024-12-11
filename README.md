@@ -54,7 +54,7 @@ https://s-pro.io/
 
 
 
-### About Me:
+### About Me: (Hekim Aslan)
 I am an aspiring AI developer with a focus on Azure AI tools and machine learning, aiming to use AI for real-world problem-solving.
 
 ### License:
