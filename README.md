@@ -50,3 +50,10 @@ For example, companies like CertiK use AI to audit smart contracts and decentral
 https://www.tribe.ai/
 https://s-pro.io/
 
+
+## About Me:
+I am an aspiring AI developer with a focus on Azure AI tools and machine learning, aiming to use AI for real-world problem-solving.
+
+## License:
+This repository is licensed under the HCC License.
+
